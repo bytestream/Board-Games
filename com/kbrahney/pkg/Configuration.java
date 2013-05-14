@@ -4,6 +4,8 @@ package com.kbrahney.pkg;
 /**
  *
  * @author Kieran
+ * @File Configuration.java
+ * Created: 20:32:11
  */
 public class Configuration {
     
