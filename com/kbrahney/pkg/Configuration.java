@@ -5,7 +5,7 @@ package com.kbrahney.pkg;
  *
  * @author Kieran
  * @File Configuration.java
- * Created: 20:32:11
+ * Created: 20:32:12
  */
 public class Configuration {
     
